@@ -1,0 +1,9 @@
+{
+    "name" : "Export",
+    "description" : "Exporting QlikSense Data",
+    "icon" : "extension",
+    "type" : "visualization",
+    "version": "0.0.1",
+    "preview" : "preview.png",
+    "author": "Nagendra Reddy"
+}

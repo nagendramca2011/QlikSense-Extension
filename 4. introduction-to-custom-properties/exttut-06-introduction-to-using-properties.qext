@@ -1,0 +1,9 @@
+{
+    "name" : "introduction-to-custom-properties",
+    "description" : "custom properties demo",
+    "icon" : "extension",
+    "type" : "visualization",
+    "version": "0.1",
+    "preview" : "preview.png",
+    "author": "Nagendra"
+}

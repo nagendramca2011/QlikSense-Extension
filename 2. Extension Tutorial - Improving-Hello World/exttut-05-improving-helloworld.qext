@@ -1,0 +1,9 @@
+{
+    "name" : "Extension Tutorial - Improvement Hello World",
+    "description" : "Extension Tutorial, Chapter 5, Improvement Hello World.",
+    "icon" : "extension",
+    "type" : "visualization",
+    "version": "0.1",
+    "preview" : "helloworld.png",
+    "author": "Nagendra"
+}

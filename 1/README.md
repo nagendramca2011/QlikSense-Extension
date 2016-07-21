@@ -1,7 +1,7 @@
-#### 1: About this Tutorial
+#### [1: About this Tutorial](https://github.com/nagendramca2011/qliksense-visualization-extensions/blob/master/1/1.%20About%20this%20Tutorial.md)
 * Prerequisites
 
-#### 2: Introduction to Qlik Sense Visualization Extensions
+#### [2: Introduction to Qlik Sense Visualization Extensions](https://github.com/nagendramca2011/qliksense-visualization-extensions/blob/master/1/2.%20Introduction%20to%20Qlik%20Sense%20Visualization%20Extensions.md)
 * Installing a visualization extension for Qlik Sense Desktop
 * Installing a visualization extension on Qlik Sense Server
 * Comparison between extensions in QlikView and Qlik Sense

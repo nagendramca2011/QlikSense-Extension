@@ -1,27 +1,33 @@
 #### 1: About this Tutorial
 * Prerequisites
+
 #### 2: Introduction to Qlik Sense Visualization Extensions
 * Installing a visualization extension for Qlik Sense Desktop
 * Installing a visualization extension on Qlik Sense Server
 * Comparison between extensions in QlikView and Qlik Sense
+
 #### 3: Let's Get Started: Hello World Example
 * The anatomy of a Qlik Sense extension
 * Skeleton of a script file
 * Structure of the .qext file
 * Creating the Hello World example
+
 #### 4: Debugging and Web Developer Tools
 * console.x()
 * Debugging
 * Object inspection
+
 #### 5: Improving the Hello World Experience
 * Make _Hello World_ dynamic
 * Define a preview image
+
 #### 6: Introduction to Using Properties
 * Skeleton
 * Re-using properties
 * Basic custom property types
 * How to reference properties
 * Break out property definition to a separate file
+
 #### 7: Custom Properties
 * Introduction to custom properties
 * Improving readability & maintainability of properties
@@ -32,6 +38,7 @@
 * Referencing property values
 * Troubleshooting
 * Source code
+
 #### 8: Hello Data
 * Create your Hello-Data visualization extension
 * Getting data into visualization extension
@@ -39,7 +46,11 @@
 * Changing the initial properties
 * Rendering table data
 * Some golden rules
+
 #### 9: Loading Resources WIP
+
 #### 10: Hello Data Improved WIP
+
 #### 11: Visualization Extensions using D3 WIP
+
 #### 12: Visualization Extensions using HighCharts 
